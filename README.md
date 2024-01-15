@@ -35,5 +35,5 @@ c. **Exploration of Correlations and Trends:**
    - Explored correlations, patterns, and trends within the Iris dataset through the selected visualization tool.
    - Highlighted key insights discovered during the EDA phase through visually appealing representations.
 
-Conclusion:
+**Conclusion:**
 The combined approach of Python-based EDA and interactive data visualization using Power BI allowed for a thorough exploration of the Iris dataset. The documentation provides a transparent account of the methodologies used and offers clear explanations for the patterns identified in the dataset, ensuring a robust understanding of the data.
